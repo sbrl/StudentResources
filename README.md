@@ -43,5 +43,4 @@ This list consists of resources which have been useful whilst studying Computer 
 23. [Connected Humber Hardware Meetups](https://www.connectedhumber.org/meetups.html)
 24. [Hull Central Library Makerspace](https://www.hcandl.co.uk/libraries/makerspace/about-makerspacehull)
 25. [The Awesome Self-Hosted List](https://github.com/awesome-selfhosted/awesome-selfhosted) - a list of open source projects which can be self-hosted. The list comprises an amazing range of fascinating tools and projects. Thanks to [@starbeamrainbowlabs](https://starbeamrainbowlabs.com/) for pointing it out.
-
-
+26. [Shodan](https://www.shodan.io/) - Create an account with your University email address to get free membership
